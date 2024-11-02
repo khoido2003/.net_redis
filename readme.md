@@ -17,10 +17,10 @@ get platform:10010 "Docker"
 
 Listing Running Containers (docker ps):
 
-    The command docker ps lists all running containers on your system. In the output, you can see:
-        Container ID: 2106bdf674ca
-        Image: redis
-        Ports: 0.0.0.0:6379->6379/tcp, which indicates that port 6379 of the container is mapped to 6379 on your host machine, allowing you to interact with Redis from outside the container.
+The command docker ps lists all running containers on your system. In the output, you can see:
+    Container ID: 2106bdf674ca
+    Image: redis
+    Ports: 0.0.0.0:6379->6379/tcp, which indicates that port 6379 of the container is mapped to 6379 on your host machine, allowing you to interact with Redis from outside the container.
     The container name is redis_api, which helps identify it.
 
 Accessing the Redis Container (docker exec -it <container_id> /bin/bash):

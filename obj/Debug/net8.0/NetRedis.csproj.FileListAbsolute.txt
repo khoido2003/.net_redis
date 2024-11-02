@@ -31,3 +31,10 @@ C:\Users\Lenovo\OneDrive\Desktop\NetRedis\obj\Debug\net8.0\refint\NetRedis.dll
 C:\Users\Lenovo\OneDrive\Desktop\NetRedis\obj\Debug\net8.0\NetRedis.pdb
 C:\Users\Lenovo\OneDrive\Desktop\NetRedis\obj\Debug\net8.0\NetRedis.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\NetRedis\obj\Debug\net8.0\ref\NetRedis.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Lenovo\OneDrive\Desktop\NetRedis\obj\Debug\net8.0\NetRedis.sourcelink.json
