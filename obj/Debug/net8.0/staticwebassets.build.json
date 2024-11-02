@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bgyFZGDmyQls6frHEOeQVJc0hgCr5g98+YfhxbC4wUI=",
+  "Source": "NetRedis",
+  "BasePath": "_content/NetRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

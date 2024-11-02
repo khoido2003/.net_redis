@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  redis:
+    image: redis
+    container_name: redis_api
+    ports:
+      - "6379:6379"
+
+
+#################################
+    
+# running redis in a container
+
+# docker ps
+
+# docker exec -it 2106bdf674ca /bin/bash  
+
+# redis-cli
