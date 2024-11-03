@@ -35,5 +35,12 @@ namespace NetRedis.Controllers
 
       return CreatedAtRoute(nameof(GetPlatformById), new Platform { Id = platform.Id }, platform);
     }
+
+
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<Platform>>> GetAllPlatforms()
+    {
+      return Ok(await _repo.GetAllPlatforms());
+    }
   }
 }

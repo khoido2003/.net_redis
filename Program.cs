@@ -8,6 +8,9 @@ builder.Services.AddSingleton<IConnectionMultiplexer>(
     opt => ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnection"))
 );
 
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+
 builder.Services.AddScoped<IPlatformRepo, RedisPlatformRepo>();
 
 builder.Services.AddControllers();

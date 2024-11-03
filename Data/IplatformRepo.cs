@@ -6,6 +6,6 @@ namespace NetRedis.Data
   {
     Task CreatePlatform(Platform plat);
     Task<Platform?> GetPlatformById(string id);
-    Task<IEnumerable<Platform>> GetAllPlatforms();
+    Task<IEnumerable<Platform?>?> GetAllPlatforms();
   }
 }

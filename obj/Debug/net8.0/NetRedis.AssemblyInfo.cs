@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetRedis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4666e2902fd2f578ab461cb68090be4317c733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce9102e59ab7c55c179156eb0332a49521c6b645")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetRedis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetRedis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
